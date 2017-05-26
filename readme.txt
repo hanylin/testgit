@@ -3,3 +3,5 @@ Git is free software.
 change readme
 change second
 change three
+
+这是一个学习git的测试
